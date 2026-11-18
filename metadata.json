@@ -1,0 +1,8 @@
+{
+  "name": "GEC RAPOT V.1",
+  "description": "Aplikasi Rapot Digital Bimbingan Belajar Galaxi Edu Center (GEC) berbasis Supabase untuk pengelolaan siswa, mata pelajaran, materi, penilaian otomatis, draft autosave, preview A4, dan ekspor PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
